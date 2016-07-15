@@ -1,1 +1,2 @@
 # angular2-rollup-helloworld
+This is a basic Angular 2 "Hello World" application wrapped in a ASP.NET solution. It uses gulp integrated into the Visual Studio IDE to minify the resulting application file using rollup and uglify.
